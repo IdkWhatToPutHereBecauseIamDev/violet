@@ -2,6 +2,7 @@
 
 self.__uv$config = {
   prefix: "/uv/service/",
+  bare: "https://retired-lynnett-boyswhoxcode-00c555c5.koyeb.app",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
